@@ -1,0 +1,6 @@
+{
+  "name": "A Little Something for Afreen 🎂",
+  "description": "An interactive, elegant birthday experience crafted for Afreen with an interactive 3D cake, memories scrapbook, audio synthesizer, and personal surprises.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
